@@ -1,1 +1,1 @@
-Repositorio usado para el FrontEnd de mi portfolio web durante el curso Yo Programo 3
+Repositorio usado para el Backend de mi portfolio web durante el curso Yo Programo
